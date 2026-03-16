@@ -1,0 +1,17 @@
+{
+    "Name": "Gonzalez & Giocomo (2022) Parahippocampal neurons encode task-relevant information for goal-directed navigation",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "Data used in the Gonzalez & Giocomo (2022) manuscript. This contains session electrophysiological data and accompanying event metadata/time-series necessary to generate figures in the manuscript. Github link contains metadata files that contain information for each session, including if it is an open-field foraging session or a Tree-Maze session, and how many units were collected in it. Additional metadata includes unit matching across session and a detailed behavioral performance table.\n\nPre-print DOI: \nhttps://doi.org/10.1101/2022.12.15.520660\n\nGithub:\nhttps://github.com/alexgonzl/TMA\n",
+    "DatasetType": "raw",
+    "Authors": [],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
