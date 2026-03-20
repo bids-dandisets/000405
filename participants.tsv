@@ -1,6 +1,6 @@
-participant_id	species	sex
-sub-s0	Rattus norvegicus	M
-sub-s1	Rattus norvegicus	M
-sub-s2	Rattus norvegicus	M
-sub-s3	Rattus norvegicus	M
-sub-s4	Rattus norvegicus	M
+participant_id	original_participant_id	species	sex
+sub-s0	sub-s0	Rattus norvegicus	M
+sub-s1	sub-s1	Rattus norvegicus	M
+sub-s2	sub-s2	Rattus norvegicus	M
+sub-s3	sub-s3	Rattus norvegicus	M
+sub-s4	sub-s4	Rattus norvegicus	M

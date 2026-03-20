@@ -1,39 +1,39 @@
-session_id
-ses-Ca+OF+030419
-ses-Ca+OF+030519
-ses-Ca+OF+030619
-ses-Ca+OF+030719
-ses-Ca+OF+030819
-ses-Ca+OF+030919
-ses-Ca+OF+031219
-ses-Ca+OF+031919
-ses-Ca+OF+032119
-ses-Ca+OF+032219
-ses-Ca+OF+032519
-ses-Ca+OF+032619
-ses-Ca+OF+032819
-ses-Ca+OF+032919
-ses-Ca+OF+040419
-ses-Ca+OF+040519
-ses-Ca+OF+040819
-ses-Ca+OF+042319
-ses-Ca+T3g+030419
-ses-Ca+T3g+030519
-ses-Ca+T3g+030619
-ses-Ca+T3g+030719
-ses-Ca+T3g+030819
-ses-Ca+T3g+031119
-ses-Ca+T3g+031219
-ses-Ca+T3g+031319
-ses-Ca+T3g+031819
-ses-Ca+T3g+031919
-ses-Ca+T3g+032019
-ses-Ca+T3g+032119
-ses-Ca+T3g+032819
-ses-Ca+T3g+032919
-ses-Ca+T3g+040119
-ses-Ca+T3g+040919
-ses-Ca+T3g+041119
-ses-Ca+T3g+041619
-ses-Ca+T3g+041919
-ses-Ca+T3g+042319
+session_id	original_session_id
+ses-Ca+OF+030419	ses-Ca_OF_030419
+ses-Ca+OF+030519	ses-Ca_OF_030519
+ses-Ca+OF+030619	ses-Ca_OF_030619
+ses-Ca+OF+030719	ses-Ca_OF_030719
+ses-Ca+OF+030819	ses-Ca_OF_030819
+ses-Ca+OF+030919	ses-Ca_OF_030919
+ses-Ca+OF+031219	ses-Ca_OF_031219
+ses-Ca+OF+031919	ses-Ca_OF_031919
+ses-Ca+OF+032119	ses-Ca_OF_032119
+ses-Ca+OF+032219	ses-Ca_OF_032219
+ses-Ca+OF+032519	ses-Ca_OF_032519
+ses-Ca+OF+032619	ses-Ca_OF_032619
+ses-Ca+OF+032819	ses-Ca_OF_032819
+ses-Ca+OF+032919	ses-Ca_OF_032919
+ses-Ca+OF+040419	ses-Ca_OF_040419
+ses-Ca+OF+040519	ses-Ca_OF_040519
+ses-Ca+OF+040819	ses-Ca_OF_040819
+ses-Ca+OF+042319	ses-Ca_OF_042319
+ses-Ca+T3g+030419	ses-Ca_T3g_030419
+ses-Ca+T3g+030519	ses-Ca_T3g_030519
+ses-Ca+T3g+030619	ses-Ca_T3g_030619
+ses-Ca+T3g+030719	ses-Ca_T3g_030719
+ses-Ca+T3g+030819	ses-Ca_T3g_030819
+ses-Ca+T3g+031119	ses-Ca_T3g_031119
+ses-Ca+T3g+031219	ses-Ca_T3g_031219
+ses-Ca+T3g+031319	ses-Ca_T3g_031319
+ses-Ca+T3g+031819	ses-Ca_T3g_031819
+ses-Ca+T3g+031919	ses-Ca_T3g_031919
+ses-Ca+T3g+032019	ses-Ca_T3g_032019
+ses-Ca+T3g+032119	ses-Ca_T3g_032119
+ses-Ca+T3g+032819	ses-Ca_T3g_032819
+ses-Ca+T3g+032919	ses-Ca_T3g_032919
+ses-Ca+T3g+040119	ses-Ca_T3g_040119
+ses-Ca+T3g+040919	ses-Ca_T3g_040919
+ses-Ca+T3g+041119	ses-Ca_T3g_041119
+ses-Ca+T3g+041619	ses-Ca_T3g_041619
+ses-Ca+T3g+041919	ses-Ca_T3g_041919
+ses-Ca+T3g+042319	ses-Ca_T3g_042319
